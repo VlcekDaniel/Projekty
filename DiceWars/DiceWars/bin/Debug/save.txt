@@ -1,0 +1,10 @@
+0wall 0wall 0wall 2player1 3player2 2player2 1player2 3player1 0wall 0wall 
+2player1 0wall 0wall 0wall 1player2 2player1 0wall 2player1 2player2 1player2 
+3player2 1player2 2player1 0wall 0wall 0wall 1player1 1player2 3player2 0wall 
+2player1 3player2 0wall 1player1 2player2 2player2 1player2 2player1 3player1 3player2 
+1player1 2player2 2player2 3player1 0wall 3player1 1player1 2player1 1player1 0wall 
+2player2 3player2 3player1 1player2 2player2 0wall 1player2 3player2 0wall 2player2 
+3player2 0wall 3player1 1player1 2player1 1player2 2player2 0wall 1player1 3player2 
+1player1 3player1 0wall 1player2 1player2 1player1 1player2 2player1 3player1 1player2 
+3player1 2player2 0wall 1player1 0wall 1player1 0wall 3player2 0wall 0wall 
+1player2 3player2 0wall 1player1 3player1 3player1 0wall 1player2 2player1 3player1 

@@ -1,0 +1,10 @@
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\bin\Debug\DiceWars.exe.config
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\bin\Debug\DiceWars.exe
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\bin\Debug\DiceWars.pdb
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\obj\Debug\DiceWars.csprojAssemblyReference.cache
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\obj\Debug\DiceWars.Main.resources
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\obj\Debug\DiceWars.Properties.Resources.resources
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\obj\Debug\DiceWars.csproj.GenerateResource.cache
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\obj\Debug\DiceWars.csproj.CoreCompileInputs.cache
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\obj\Debug\DiceWars.exe
+F:\Skola\Bakalar 6. Semestr\ICSHP\DiceWars\DiceWars\obj\Debug\DiceWars.pdb

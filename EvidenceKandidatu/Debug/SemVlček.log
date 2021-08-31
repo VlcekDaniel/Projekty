@@ -1,0 +1,59 @@
+﻿  agenda.c
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(31,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(31,11): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(32,28): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(32,15): warning C4024: 'strchr': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(33,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(33,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(33,42): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(33,29): warning C4024: 'strcpy': different types for formal and actual parameter 2
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(34,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(34,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(37,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(37,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(43,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(43,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(45,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(45,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(48,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(48,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(50,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(50,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(58,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(58,23): warning C4024: 'vytvorKandidata': different types for formal and actual parameter 5
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(58,53): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(58,38): warning C4024: 'vytvorKandidata': different types for formal and actual parameter 6
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(64,35): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(64,22): warning C4024: 'vytvorKandidata': different types for formal and actual parameter 5
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(64,52): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(64,37): warning C4024: 'vytvorKandidata': different types for formal and actual parameter 6
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(17,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(26,26): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(27,26): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(28,25): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(29,28): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(31,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(33,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(34,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(37,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(43,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(44,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(45,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(48,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(49,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(50,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(74,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(81,23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(82,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(83,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(84,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(85,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(86,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(87,24): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(87,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(88,25): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(279,23): warning C4018: '<': signed/unsigned mismatch
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(289,23): warning C4018: '<': signed/unsigned mismatch
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(153): warning C4715: 'odeberKandidataZeSeznamu': not all control paths return a value
+F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\agenda.c(229): warning C4715: 'odeberPoziciZeSeznamu': not all control paths return a value
+  SemVlček.vcxproj -> F:\Skola\Bakalar 5. Semestr\IUJC\Sem\SemVlček\Debug\SemVlček.exe
